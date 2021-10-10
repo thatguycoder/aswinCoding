@@ -8,7 +8,7 @@
 - [AoPS Contest Collection](https://artofproblemsolving.com/community/c13_contests) has problems ranging from local math competitions to the IMO.
 - [Cut The Knot](https://www.cut-the-knot.org/) has some fun maths problems with nice Java applets to improve your understanding.
 - [Maths Challenge](https://mathschallenge.net/archive) has an awesome collection of problems of varying difficulty which you can find as 4 big PDF's.
-- [Maths and Physics Tutor](https://www.physicsandmathstutor.com) has revision material and past papers for: Maths, Physics, Biology, Chemistry, English and Computer Science
+- [Maths and Physics Tutor](https://www.physicsandmathstutor.com) has revision material and past papers for: Maths, Physics, Biology, Chemistry, English and Computer Science.
 
 ## Challenges / Olympiads
 - [Senior UKMT Challenge Questions](https://colmanweb.co.uk/problemsolving/ukmt.html) are doable for Year 11 students and require no extra knowledge. You can enter the competition in Sixth Form or even earlier (by asking your teachers). If you start to find these problems too easy, have a look at the [BMO1 Papers](https://bmos.ukmt.org.uk/home/bmo.shtml#bmo1).
