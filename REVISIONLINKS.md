@@ -1,3 +1,14 @@
+# Introduction
+- This is a documents that has links to highly used revision material and help.
+
+### Specifications
+- [Science Trilogy](https://filestore.aqa.org.uk/resources/science/specifications/AQA-8464-SP-2016.PDF)
+- [Maths](https://filestore.aqa.org.uk/resources/mathematics/specifications/AQA-8300-SP-2015.PDF)
+- [Seperate Physics](https://filestore.aqa.org.uk/resources/physics/specifications/AQA-8463-SP-2016.PDF)
+- [Seperate Chemistry](https://filestore.aqa.org.uk/resources/chemistry/specifications/AQA-8462-SP-2016.PDF)
+- [Seperate Biology](https://filestore.aqa.org.uk/resources/biology/specifications/AQA-8461-SP-2016.PDF)
+- [Computer Science](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8525-SP-2020.PDF)
+
 # Maths / Physics
 
 ## Websites
@@ -18,3 +29,8 @@
 ## YouTube Channels
 - [Freecodecamp](https://www.youtube.com/c/Freecodecamp/videos) has some great introductory videos for programming languages.
 - [The Coding Train](https://www.youtube.com/thecodingtrain/) has some really fun creative coding tutorials and challenges. You navigate his video library more easily using his [website](https://thecodingtrain.com/).
+
+# Chemistry
+
+## Websites
+- 
