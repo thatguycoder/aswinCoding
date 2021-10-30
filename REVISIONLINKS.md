@@ -15,6 +15,7 @@
 ## Maths / Physics
 
 ### Websites
+- [UKMT - Maths Olympiad](https://www.ukmt.org.uk/challenges) has challenges and past papers for the maths olympiad.
 - [Expii Solve](https://v1.expii.com/solve) has an interesting collection mathematical puzzles that link nicely to everyday life.
 - [Isaac Physics](https://isaacphysics.org/) has some really fun physics questions and is closely tied to the content of the GCSE & A-level curriculum.
 - [Brilliant.org](https://brilliant.org) is quite popular and has some really fun and interesting problems on their community and practice pages. You don't need to buy their premium subscription to use those pages, buying premium is only for the courses. I found these free pages much more useful than buying the subscription.
