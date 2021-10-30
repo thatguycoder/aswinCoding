@@ -39,5 +39,4 @@
 
 ### Youtube Channels
 - [Science and Maths by Primross Kitten](https://www.youtube.com/channel/UCBgvmal8AR4QIK2e0EfJwaA) has video about the whole of a single paper / whole topic in one video.
-- [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) cool videos about science and problems in general good for a video to watch while on break.
 - [Science with Hazel](https://www.youtube.com/channel/UCMdb23cYgONtCG-zPaWigog)
