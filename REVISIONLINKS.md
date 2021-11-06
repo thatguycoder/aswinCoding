@@ -6,10 +6,10 @@
 
 ### Specifications
 - [Science Trilogy](https://filestore.aqa.org.uk/resources/science/specifications/AQA-8464-SP-2016.PDF)
-- [Maths](https://filestore.aqa.org.uk/resources/mathematics/specifications/AQA-8300-SP-2015.PDF)
 - [Seperate Physics](https://filestore.aqa.org.uk/resources/physics/specifications/AQA-8463-SP-2016.PDF)
 - [Seperate Chemistry](https://filestore.aqa.org.uk/resources/chemistry/specifications/AQA-8462-SP-2016.PDF)
 - [Seperate Biology](https://filestore.aqa.org.uk/resources/biology/specifications/AQA-8461-SP-2016.PDF)
+- [Maths](https://filestore.aqa.org.uk/resources/mathematics/specifications/AQA-8300-SP-2015.PDF)
 - [Computer Science](https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8525-SP-2020.PDF)
 
 ## Maths / Physics
